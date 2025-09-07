@@ -1,0 +1,23 @@
+#include <iostream>
+using namespace std;
+
+
+int factorial(int n) {
+	int c = 1;
+	for (int i = 2;i <= n;i++) {
+		c = c * i;
+	}
+	return c;
+}
+
+int main() {
+	//4. Create a C++ function to calculate the factorial of a number using recursion.
+	int a;
+	int b;
+	cin >> a;
+	cout << factorial(a) << endl;
+	return 0;
+	
+	
+
+}

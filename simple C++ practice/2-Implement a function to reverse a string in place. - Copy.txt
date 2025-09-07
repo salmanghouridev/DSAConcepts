@@ -1,0 +1,34 @@
+#include <iostream>
+using namespace std;
+
+
+int main() {
+	//Implement a function to reverse a string in place.
+	// 1. Find the length n of the string.
+// 2. Loop i from 0 to n/2 (till middle of string).
+	//n = total length of the string.
+	//Each iteration swaps two characters : one from the start(a[i]) and one from the end(a[n - 1 - i]).
+	//Once you reach the middle, all characters have already been swapped.
+// 3. For each i, swap:
+//      - a[i] → character from start
+//      - a[n-1-i] → character from end
+// 4. After all swaps, the string is reversed.
+// Example for "salman" (n=6):
+// Step 0: swap a[0] ('s') ↔ a[5] ('n') → "nalmas"
+// Step 1: swap a[1] ('a') ↔ a[4] ('a') → "nalmas"
+// Step 2: swap a[2] ('l') ↔ a[3] ('m') → "namlas"
+
+	string a = "salman";
+
+	int length = a.length();
+
+	for (int i = 0;i < length / 2;i++) {
+		char temp = a[i];
+		a[i] = a[length - 1 - i];
+		a[length - 1 - i] = temp;
+	}
+
+	cout <<a <<endl;
+	return 0;
+
+}
