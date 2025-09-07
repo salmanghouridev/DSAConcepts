@@ -1,0 +1,111 @@
+ch### Easy Questions (1-30)
+These questions focus on basic concepts like arrays, strings, and simple operations.
+
+1. Write a C++ program to find the maximum element in an array.(07-09-2025) done
+2. Implement a function to reverse a string in place.(07-09-2025) done
+3. Write a program to check if a number is prime.(07-09-2025) done
+4. Create a C++ function to calculate the factorial of a number using recursion.(07-09-2025) done
+5. Implement bubble sort on an array of integers.
+6. Write a program to find the sum of all elements in an array.
+7. Check if a given string is a palindrome.
+8. Implement a linear search algorithm to find an element in an array.
+9. Write a C++ function to compute the Fibonacci sequence up to n terms.
+10. Swap two numbers without using a temporary variable.
+11. Implement a program to count the occurrences of a character in a string.
+12. Write a function to merge two sorted arrays into one.
+13. Check if two strings are anagrams of each other.
+14. Implement insertion sort on a list of numbers.
+15. Write a program to find the second largest element in an array.
+16. Reverse an array in place.
+17. Implement a function to calculate the power of a number (x^y).
+18. Write a C++ program to find the GCD of two numbers.
+19. Sort an array of 0s, 1s, and 2s in linear time.
+20. Implement a binary search on a sorted array.
+21. Write a function to remove duplicates from a sorted array.
+22. Check if a number is a perfect square.
+23. Implement a program to print all even numbers up to n.
+24. Write a C++ function to find the length of a string without using library functions.
+25. Rotate an array to the left by k positions.
+26. Implement selection sort on an array.
+27. Write a program to find the minimum element in an array.
+28. Check if an array is sorted in ascending order.
+29. Implement a function to count vowels in a string.
+30. Write a C++ program to generate the first n prime numbers.
+
+### Medium Questions (31-70)
+These involve data structures like linked lists, stacks, queues, and moderate algorithms.
+
+31. Implement a singly linked list with insert and delete operations.
+32. Write a program to reverse a linked list.
+33. Detect a cycle in a linked list using Floyd's algorithm.
+34. Implement a stack using arrays.
+35. Write a C++ function to evaluate a postfix expression.
+36. Implement a queue using linked lists.
+37. Check if parentheses in a string are balanced using a stack.
+38. Implement merge sort on an array.
+39. Write a program to find the middle element of a linked list.
+40. Implement a binary tree and perform inorder traversal.
+41. Write a function to find the height of a binary tree.
+42. Implement quicksort on an array.
+43. Find the kth smallest element in an unsorted array.
+44. Implement a priority queue using heaps.
+45. Write a C++ program to perform BFS on a graph.
+46. Detect if a graph has a cycle using DFS.
+47. Implement Dijkstra's algorithm for shortest paths.
+48. Write a function to clone a linked list with random pointers.
+49. Implement a trie for string insertion and search.
+50. Find the longest common subsequence between two strings.
+51. Write a program to solve the 0/1 knapsack problem.
+52. Implement a hash table with chaining.
+53. Find all subsets of an array using backtracking.
+54. Write a C++ function to generate permutations of a string.
+55. Implement topological sort on a directed graph.
+56. Find the minimum spanning tree using Kruskal's algorithm.
+57. Write a program to solve Sudoku using backtracking.
+58. Implement a segment tree for range queries.
+59. Find the longest increasing subsequence in an array.
+60. Write a function to rotate a matrix 90 degrees clockwise.
+61. Implement a binary search tree with insert and search.
+62. Check if a binary tree is balanced.
+63. Find the lowest common ancestor in a binary tree.
+64. Implement heap sort on an array.
+65. Write a C++ program to find connected components in a graph.
+66. Solve the N-Queens problem using backtracking.
+67. Implement a LRU cache using doubly linked lists and hash maps.
+68. Find the median of two sorted arrays.
+69. Write a function to serialize and deserialize a binary tree.
+70. Implement a Fenwick tree for prefix sums.
+
+### Hard Questions (71-100)
+These cover advanced topics like dynamic programming, graph algorithms, and complex data structures.
+
+71. Solve the word break problem using dynamic programming.
+72. Implement the A* search algorithm for pathfinding.
+73. Write a C++ program to find the maximum flow in a graph using Ford-Fulkerson.
+74. Find the longest palindromic substring in a string.
+75. Implement a suffix array for string matching.
+76. Solve the traveling salesman problem using dynamic programming.
+77. Write a function to compute the edit distance between two strings.
+78. Implement Tarjan's algorithm for strongly connected components.
+79. Find the kth largest element in a stream using heaps.
+80. Solve the minimum window substring problem.
+81. Implement a B-tree with insert and search operations.
+82. Write a C++ program to find articulation points in a graph.
+83. Solve the coin change problem with minimum coins.
+84. Implement the Bellman-Ford algorithm for shortest paths.
+85. Find the maximum subarray sum using Kadane's algorithm (with variations).
+86. Write a function to merge k sorted linked lists.
+87. Solve the wildcard matching problem with DP.
+88. Implement a skip list data structure.
+89. Find the diameter of a binary tree.
+90. Write a program to solve the job scheduling problem with deadlines.
+91. Implement the Hungarian algorithm for assignment problems.
+92. Solve the regular expression matching problem.
+93. Find the shortest path in a maze with obstacles.
+94. Implement a disjoint set union (DSU) with path compression.
+95. Write a C++ function to compute the longest common prefix in an array of strings.
+96. Solve the matrix chain multiplication problem.
+97. Implement Prim's algorithm for minimum spanning tree.
+98. Find the number of ways to climb stairs with variable jumps (DP).
+99. Write a program to detect and remove loops in a linked list.
+100. Solve the egg dropping puzzle using dynamic programming.
